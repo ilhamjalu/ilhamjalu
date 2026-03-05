@@ -30,16 +30,16 @@ My background includes developing gameplay systems in Unity and experimenting wi
 
 **Languages**
 
-Python
-C#
+* Python
+* C#
 
 **Tools & Frameworks**
 
-Unity
-PyTorch
-OpenCV
-ML-Agents
-Git
+* Unity
+* PyTorch
+* OpenCV
+* ML-Agents
+* Git
 
 ---
 
