@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi, I'm Ilham 👋
 
-<!--
-**ilhamjalu/ilhamjalu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 Game Programmer with a strong interest in Artificial Intelligence and Machine Learning.
 
-Here are some ideas to get you started:
+I enjoy building systems that combine **game development, simulation, and intelligent agents**.
+My background includes developing gameplay systems in Unity and experimenting with AI techniques such as **Reinforcement Learning and Computer Vision**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I'm Working On
+
+* Exploring **AI/ML engineering workflows**
+* Building **computer vision projects**
+* Experimenting with **reinforcement learning in simulation environments**
+
+---
+
+## 🧠 Areas of Interest
+
+* Game Development
+* Artificial Intelligence
+* Machine Learning
+* Reinforcement Learning
+* Computer Vision
+* Simulation Systems
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+
+Python
+C#
+
+**Tools & Frameworks**
+
+Unity
+PyTorch
+OpenCV
+ML-Agents
+Git
+
+---
+
+## 📂 Featured Projects
+
+Coming soon.
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn: [https://www.linkedin.com/in/ilhamjalu/]
+Portfolio: 
