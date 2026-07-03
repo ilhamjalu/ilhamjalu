@@ -43,9 +43,10 @@ My background includes developing gameplay systems in Unity and experimenting wi
 
 ---
 
-## 📂 Featured Projects
+## 📂 Sample Projects
 
 Example Code: [https://github.com/ilhamjalu/Arena-Survival-Mini]
+JRPG Prototype: [https://github.com/ilhamjalu/JRPG-Prototype]
 
 ---
 
